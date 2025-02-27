@@ -1,16 +1,36 @@
-# mindfulness
+# Mindfulness
 
-A new Flutter project.
+Student Wellness App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a mental wellness app designed to help students track their moods,
+write journal entries, and connect with peer support groups.
 
-A few resources to get you started if this is your first Flutter project:
+## Some screenshots from the project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen
+![Home Screen](screenshots/home.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Mood Tracker Screen
+![Mood Tracker](screenshots/mood.png)
+
+### Journal Entry Screen
+![Journal Entry](screenshots/journal.png)
+
+### Peer Support chat Screen
+![Peer Support Chat](screenshots/chat1.png)
+
+### Emergency Contacts Screen
+![Emergency Contacts](screenshots/emergency_contacts.png)
+![Emergency Contacts Messaging](screenshots/message.png)
+
+### Meditation Screen
+![Guided meditation](screenshots/guided_meditation.png)
+
+### History Screen
+![History](screenshots/history.png)
+
+### Firebase Database
+![Firebase](screenshots/firebase1.png)
+![Firebase](screenshots/firebase2.png)
