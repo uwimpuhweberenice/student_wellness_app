@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27949326109",
+    "project_id": "wellness-app-d3dab",
+    "storage_bucket": "wellness-app-d3dab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27949326109:android:3c678b5749f6cf65aacbf4",
+        "android_client_info": {
+          "package_name": "com.example.mindfulness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMbrT6E2HyZLj-N7IBsjsMXs-Wr64iMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
