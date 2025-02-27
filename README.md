@@ -34,3 +34,6 @@ write journal entries, and connect with peer support groups.
 ### Firebase Database
 ![Firebase](screenshots/firebase1.png)
 ![Firebase](screenshots/firebase2.png)
+
+Find the apk file for testing here:
+![Apk test file](https://github.com/uwimpuhweberenice/student_wellness_app/blob/main/apk/app-release.apk)
